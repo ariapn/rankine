@@ -2,7 +2,7 @@ rankine
 =======
 
 A demonstration of some principles of scientific data processing in
-Python for Software Carpentry (SWC) at UIUC.
+Python for Software Carpentry (SWC) at UIUC 01/19/2018
 
 ## Usage
 
